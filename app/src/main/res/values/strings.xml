@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">E-commerceApp</string>
+    <string name="product_name">PRODUCT NAME</string>
+    <string name="description">DESCRIPTION</string>
+    <string name="price">PRICE</string>
+    <string name="product_image">Product Image</string>
+    <string name="generate">Generate</string>
+</resources>
